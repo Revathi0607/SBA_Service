@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\bin\Debug\Capsule_TaskManager.Models.dll
+C:\Users\Admin\Downloads\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\bin\Debug\Capsule_TaskManager.Models.pdb
+C:\Users\Admin\Downloads\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Debug\Capsule_TaskManager.Models.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Debug\Capsule_TaskManager.Models.dll
+C:\Users\Admin\Downloads\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Debug\Capsule_TaskManager.Models.pdb
+C:\Users\Admin\Desktop\TaskMange_SBA\TaskManger_SBA\Capsule_TaskManager.Models\bin\Debug\Capsule_TaskManager.Models.dll
+C:\Users\Admin\Desktop\TaskMange_SBA\TaskManger_SBA\Capsule_TaskManager.Models\bin\Debug\Capsule_TaskManager.Models.pdb
+C:\Users\Admin\Desktop\TaskMange_SBA\TaskManger_SBA\Capsule_TaskManager.Models\obj\Debug\Capsule_TaskManager.Models.dll
+C:\Users\Admin\Desktop\TaskMange_SBA\TaskManger_SBA\Capsule_TaskManager.Models\obj\Debug\Capsule_TaskManager.Models.pdb

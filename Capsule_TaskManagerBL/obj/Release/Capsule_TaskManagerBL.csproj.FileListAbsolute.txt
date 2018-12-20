@@ -1,0 +1,12 @@
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerBL.pdb
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManager.Models.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\EntityFramework.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManager.Models.pdb
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.pdb
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\Capsule_TaskManagerDL.dll.config
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\bin\Release\EntityFramework.xml
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.csprojResolveAssemblyReference.cache
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManagerBL\obj\Release\Capsule_TaskManagerBL.pdb

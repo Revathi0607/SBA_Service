@@ -1,0 +1,5 @@
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\bin\Release\Capsule_TaskManager.Models.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\bin\Release\Capsule_TaskManager.Models.pdb
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.csprojResolveAssemblyReference.cache
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.dll
+C:\Marish\FSE Final Project\ProjectManager-master\Dotnet\Capsule_TaskManager.Models\obj\Release\Capsule_TaskManager.Models.pdb
